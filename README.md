@@ -37,7 +37,7 @@ in to do list
 - [ ] Task 1
 - [ ] Task 2
 # Lima
-- [ ] Task 1
+- [x] Task 1
 - [ ] Task 2
 # Mike
 - [ ] Task 1
