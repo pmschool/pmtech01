@@ -1,7 +1,9 @@
 # Example 
 - [x] Task 1
+
 Link to [formatting syntax|https://help.github.com/articles/basic-writing-and-formatting-syntax/]
 - [x] Task 2
+
 in to do list
 # Alfa 
 - [ ] Task 1
