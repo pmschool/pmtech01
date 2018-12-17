@@ -7,8 +7,8 @@ in to do list
 - [ ] Task 1
 - [ ] Task 2
 # Bravo
-- [ ] Task 1
-- [ ] Task 2
+- [x] Task 1
+- [x] Task 2 VPS хостинг VX-8G (рассчитан на 4 ядра и 8ГБ памяти)
 # Charlie
 - [ ] Task 1
 - [ ] Task 2
