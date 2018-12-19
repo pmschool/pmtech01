@@ -32,7 +32,7 @@ in to do list
 - [ ] Task 2
 # Juliett 
 - [x] Task 1
-- [ ] Task 2
+- [x] Task 2
 # Kilo
 - [ ] Task 1
 - [ ] Task 2
