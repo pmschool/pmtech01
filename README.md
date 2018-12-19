@@ -31,7 +31,7 @@ in to do list
 - [ ] Task 1
 - [ ] Task 2
 # Juliett 
-- [ ] Task 1
+- [x] Task 1
 - [ ] Task 2
 # Kilo
 - [ ] Task 1
