@@ -4,8 +4,8 @@ Link to [formatting syntax|https://help.github.com/articles/basic-writing-and-fo
 - [ ] Task 2
 in to do list
 # Alfa 
-- [ ] Task 1
-- [ ] Task 2
+- [x] Task 1 сервер i7-3770 - ОЗУ 8Гб, 4 ядра, 120Гб SSD, стоимость 69 у.е.
+- [x] Task 2 AB Testing - это тестирование нового/измененного функционала на небольшой группе пользователей с целью исследования, насколько улучшатся целеввые показатели от применения данного функционала.
 # Bravo
 - [ ] Task 1
 - [ ] Task 2
